@@ -2,3 +2,7 @@
   font-family: sans-serif;
   text-align: center;
 }
+#links a {
+  padding: 12px;
+  color: black;
+}
