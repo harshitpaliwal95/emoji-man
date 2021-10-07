@@ -18,7 +18,9 @@ const emojiDictionary = {
   "👊🏻": "fist boomb",
   "🧠": "brain",
   "🥷🏻": "ninja",
-  "🧜🏻‍♀️": "mermaid"
+  "🧜🏻‍♀️": "mermaid",
+  "🥳": "cheers",
+  "☑": "checked"
 };
 
 export default function App() {
