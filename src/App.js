@@ -20,7 +20,8 @@ const emojiDictionary = {
   "🥷🏻": "ninja",
   "🧜🏻‍♀️": "mermaid",
   "🥳": "cheers",
-  "☑": "checked"
+  "☑": "checked",
+  "👽": "Alien"
 };
 
 export default function App() {
