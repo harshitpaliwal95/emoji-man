@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import "./styles.css";
 
+
 // javascript objects
+
 const emojiDictionary = {
   "😊": "Smiling",
   "😎": "attitude",
